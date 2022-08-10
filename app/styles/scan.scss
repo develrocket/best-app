@@ -1,0 +1,25 @@
+.scanContainer {
+  height: 50%;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  background: white;
+  position: relative;
+}
+
+.scanHeader {
+  padding: 4px;
+  text-align: left;
+  font-size: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background: rgba(2, 45, 255, 0.41);
+}
+
+.scanContainerNone {
+  background: #FF6347;
+}
+
+.detailButton {
+  float: right;
+}

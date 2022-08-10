@@ -1,0 +1,19 @@
+.settingsContainer {
+  display: flex;
+  align-items: center;
+  border: 1px solid black;
+  width: 700px;
+}
+
+.settingsContainer div {
+  margin: 3px;
+}
+
+.settingsSubContainer button {
+  float: left;
+}
+
+.settingsSubContainer div {
+  float: left;
+  margin: 10px;
+}

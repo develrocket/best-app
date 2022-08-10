@@ -1,0 +1,27 @@
+.Table {
+  display: table;
+  color: black;
+  width: 100%;
+  border-spacing: 0px;
+}
+.TableRow {
+  display: table-row;
+  border: 1px solid black;
+  background-color: whitesmoke;
+}
+.TableHead {
+  display: table-header-group;
+}
+.TableBody {
+  display: table-row-group;
+}
+.TableFoot {
+  display: table-footer-group;
+}
+.TableCell, .TableHead {
+  display: table-cell;
+  margin: 0px;
+  padding: 5px;
+  text-align: left;
+  border-bottom: 1px solid black;
+}

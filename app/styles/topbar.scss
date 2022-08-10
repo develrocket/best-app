@@ -1,0 +1,67 @@
+.topbarContainer {
+  display: flex;
+  justify-content: space-between;
+  // height: 40px;
+}
+
+.topbarContainerLeft {
+  display: flex;
+  justify-content: space-around;
+  // background: red;
+  align-items: center;
+}
+
+.topbarContainerLeft div {
+  margin: 2px 5px 2px 5px;
+}
+
+.topbarContainerRight {
+  display: flex;
+  // background: purple;
+}
+
+.topbarContainerRight div {
+  margin: 2px 5px 2px 5px;
+}
+
+
+.topbarSelectPopover {
+  padding: 20;
+}
+
+.topbarButtonDebug {
+  // display: flex;
+}
+
+.topbarButtonSettings {
+
+}
+
+.topbarButtonsRight {
+  // margin-right: 10px;
+  // color: black;
+}
+
+.topBarGroupNewProject {
+  // text-align: left;
+}
+
+.topbarTextNewProject {
+  // margin-left: 10px;
+  // margin-right: 10px;
+}
+
+.topbarTextInputNewProject {
+  padding: 0px;
+  margin: 0px;
+}
+
+.topbarButtonSelectDelete {
+
+}
+
+.topbarProjectName {
+  display: flex;
+  align-items: center;
+  // background: red;
+}

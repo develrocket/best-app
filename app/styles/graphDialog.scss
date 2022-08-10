@@ -1,0 +1,52 @@
+.graphDialogContainer {
+  width: 100%;
+  height: 100%;
+  background-color: #aaaaaa;
+}
+
+.detailGraphContainer {
+  width: 33.3%;
+  height: 50%;
+  float: left;
+}
+
+.graphBox {
+  float: left;
+  position: absolute;
+  top: 30px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  background: white;
+}
+
+.controlBox {
+  float: left;
+  text-align: center;
+  width: 100%;
+  height: 200px;
+  margin-top: 10px;
+}
+
+.controlBox .inputNumberUnitToggle {
+  position: relative;
+  justify-content: center;
+}
+
+.controlBox .buttonBox {
+  text-align: center;
+  width: 100%;
+  height: 21px;
+  margin-top: 10px;
+}
+
+.limitButton {
+  width: 100px;
+}
+
+.historyGraphBox {
+  position: relative;
+  width: 900px;
+  height: 400px;
+  top: 0px;
+}

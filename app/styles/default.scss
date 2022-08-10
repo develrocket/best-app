@@ -1,0 +1,12 @@
+.headerBlock {
+  background-color: #333333;
+  color: red;
+  height: 30px;
+  text-align: center;
+  display: table;
+  width: 100%;
+}
+.headerBlockCell {
+  display: table-cell;
+  vertical-align: middle;
+}
